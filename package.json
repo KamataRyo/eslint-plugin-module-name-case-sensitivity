@@ -1,0 +1,35 @@
+{
+  "name": "eslint-plugin-module-name-case-sensitivity",
+  "version": "0.0.1",
+  "description": "eslint rule about case sensitivity of required module name",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamataRyo/eslint-plugin-module-name-case-sensitivity.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "require",
+    "import",
+    "module",
+    "case",
+    "sensitivity"
+  ],
+  "author": "kamataryo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamataRyo/eslint-plugin-module-name-case-sensitivity/issues"
+  },
+  "homepage": "https://github.com/KamataRyo/eslint-plugin-module-name-case-sensitivity#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-eslint": "^7.1.1",
+    "babel-preset-es2015": "^6.18.0",
+    "eslint": "^3.12.2",
+    "mocha": "^3.2.0"
+  }
+}
